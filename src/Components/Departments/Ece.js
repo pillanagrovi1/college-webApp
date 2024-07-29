@@ -87,7 +87,7 @@ Programme specific Outcomes (PSOs)</h2>
                         <tbody>
                             <tr>
                                 <th>HOD</th>
-                                <td>Prof. G. Umamaheswara Reddy</td>
+                                <td>Prof. S. Swarnalatha</td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(PG)</th>
